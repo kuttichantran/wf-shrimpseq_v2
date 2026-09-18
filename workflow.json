@@ -1,6 +1,6 @@
 {
-  "name": "wf-shrimpseq",
-  "id": "wf-shrimpseq",
+  "name": "wf-shrimpseq_v2",
+  "id": "wf-shrimpseq_v2",
   "version": "1.0.4",
   "description": "Minimap2 viral screening with water control SimpleRatio reporting",
   "entrypoint": "main.nf",
