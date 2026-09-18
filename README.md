@@ -1,4 +1,4 @@
-# wf-shrimpseq
+# wf-shrimpseq_v2
 
 Workflow that maps ONT reads to reference shrimp pathogens and reports per-pathogen SimpleRatio
 using a water control.
